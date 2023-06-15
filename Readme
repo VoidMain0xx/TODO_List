@@ -1,0 +1,23 @@
+# We Will use an API.  What is an API ?
+=> API Means Aplication Progarming Interface. A software intermediary that allows two applications to talk to each other. APIs are an accessible way to extract and share data within and across organizations.
+
+# A Todo List app 
+
+# Some General Steps To a Follow
+
+- Functionality 
+    - Add a Todo
+    - Delete a Todo
+    - check a Todo
+    - Total item count
+
+- Data
+	- tasks - an array
+	- task - {done, text, id}
+
+- Functions (in code)
+	- addTodo
+	- deleteTodo
+	- checkTodo
+	- renderTodosList
+	- showNotification (Alert)
